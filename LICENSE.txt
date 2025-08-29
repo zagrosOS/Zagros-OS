@@ -1,0 +1,26 @@
+Zagros License v1.0
+
+1. Credit
+   You must state that this software/code comes from Zagros License or its original author.
+
+2. Permitted Use
+   You may use, copy, or modify this software/code, but:
+   - Do not use it to harm others.
+   - Do not use it for haram purposes.
+   - Do not sell this software/code or any modified versions.
+   - Cannot use in military or weapon software.
+   - Cannot use in closed-source programs.
+   - Cannot remove this license from the software/code.
+   - Cannot claim authorship of this software/code.
+   - No reverse engineering is allowed.
+
+3. Distribution
+   You may share this software/code, provided you include this license and credit Zagros License.
+
+4. Modified Versions
+   - Any modified versions must be clearly marked as modified.
+   - This license must remain attached to all modified versions.
+
+5. Disclaimer
+   This software/code is provided "as is" without any warranty. 
+   The author is not responsible for any damage caused by its use.
