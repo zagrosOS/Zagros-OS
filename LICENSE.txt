@@ -1,4 +1,4 @@
-Zagros License v1.1 – Under Islam
+Zagros License v1.0 – Under Islam
 This software/code is licensed under the following terms:
 
 1. Credit
@@ -25,10 +25,3 @@ This software/code is licensed under the following terms:
 5. Disclaimer
    This software/code is provided "as is" without any warranty. 
    The author is not responsible for any damage caused by its use.
-
----
-
-Short header to include in each source file:
-
-// Licensed under Islam and Zagros License v1.1
-// See LICENSE.txt for full details
