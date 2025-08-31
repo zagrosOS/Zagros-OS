@@ -1,4 +1,4 @@
-; Licensed under Islam and Zagros License v1.1 – See LICENSE.txt
+; Licensed under Islam and Zagros License v1.0 – See LICENSE.txt
 [BITS 16]
 [ORG 0x7C00]
 
