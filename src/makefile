@@ -1,3 +1,4 @@
+; Licensed under Islam and Zagros License v1.0 – See LICENSE.txt
 ASM = nasm
 ASMFLAGS = -f bin
 BOOT = boot.asm

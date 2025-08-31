@@ -1,3 +1,4 @@
+; Licensed under Islam and Zagros License v1.0 – See LICENSE.txt
 draw_menu:
     mov edi, 0xB8000      
     mov ecx, 1840

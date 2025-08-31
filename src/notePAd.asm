@@ -1,3 +1,4 @@
+; Licensed under Islam and Zagros License v1.0 – See LICENSE.txt
 into_program_notepad:
     call draw_menu_for_key
     call top_about
